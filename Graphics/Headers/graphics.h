@@ -8,6 +8,9 @@
 #ifndef graphics_h
 #define graphics_h
 
+void init();
+void loop();
+
 namespace graphics {
     
 }
