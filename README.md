@@ -1,3 +1,3 @@
-# GamePlatform-Game-Framework
+# GamePlatform Game Template
 
-when you are making a game for Game Platform, clone this repo and code inside it
+When you are making a game for Game Platform, clone this repo and code inside it.
